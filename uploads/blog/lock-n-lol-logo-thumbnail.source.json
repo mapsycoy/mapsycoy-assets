@@ -1,0 +1,15 @@
+{
+  "asset": "lock-n-lol-logo-thumbnail.jpg",
+  "description": "User-selected Lock n’ LoL logo thumbnail, unchanged from the supplied NDTV image.",
+  "sourceImage": "https://i.ndtvimg.com/i/2015-12/lock-n-lol_650x400_71450863433.JPG",
+  "sourceArticle": "https://www.ndtv.com/offbeat/a-new-app-for-anyone-who-needs-a-digital-detox-1258195",
+  "sourceCredit": "NDTV credits the image as a screengrab from a YouTube video uploaded by KAISTPR.",
+  "officialVideo": "https://www.youtube.com/watch?v=1wY2pI9qFYM",
+  "officialVideoReference": "https://breakthrough.kaist.ac.kr/sub02/view/id/260",
+  "logoReference": "https://ic.kaist.ac.kr/publications/papers/ko2016lock.pdf#page=4",
+  "dimensions": [650, 400],
+  "bytes": 11787,
+  "sha256": "c0bf04473431b4663aa04fcd505616c1fe3854d549418370c79dea3612542e7b",
+  "modifications": "None",
+  "rightsStatus": "No separate reuse license was confirmed. Source attribution is retained."
+}
