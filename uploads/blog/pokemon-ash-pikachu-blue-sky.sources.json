@@ -1,0 +1,20 @@
+{
+  "title": "Ash and Pikachu under a blue sky",
+  "work": "Pocket Monsters: Harukanaru Aoi Sora (2022)",
+  "input": {
+    "type": "User-provided landscape image",
+    "width": 1200,
+    "height": 675
+  },
+  "original_key_visual": "https://www.tv-tokyo.co.jp/anime/pocketmonster/images/news/img_news221216_01_2.jpg",
+  "official_announcement": "https://www.tv-tokyo.co.jp/anime/pocketmonster/news/index_2.html",
+  "provenance_note": "The supplied landscape image was visually compared with the official key visual. The landscape file's separate upstream distribution URL and editing history were not independently verified.",
+  "copyright": "©Nintendo･Creatures･GAME FREAK･TV Tokyo･ShoPro･JR Kikaku ©Pokémon",
+  "permission_verified": false,
+  "processing": "JPEG to WebP at quality 88, effort 6. Original 1200 x 675 dimensions and composition retained. No upscaling or generative processing.",
+  "usage": {
+    "hero": "Full landscape image",
+    "thumbnail": "Same image, displayed in the existing 16:10 frame with object-position: left center"
+  },
+  "verified_on": "2026-11-06"
+}
